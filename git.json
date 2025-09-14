@@ -1,0 +1,17 @@
+[
+    {
+        "p_rel_url" : "PIYUSHPHUYAL/California-Air-Quality-Health-Risk-Index-Dashboard-2024-/refs/heads/main/RAW_DATA/no2_cal_2024.csv",
+        "p_sink_folder" : "NO2_CALIFORNIA_2024",
+        "p_sink_file" : "no2_cal_2024.csv"
+    },
+    {
+        "p_rel_url" : "PIYUSHPHUYAL/California-Air-Quality-Health-Risk-Index-Dashboard-2024-/refs/heads/main/RAW_DATA/ozone_cal_2024.csv",
+        "p_sink_folder" : "OZONE_CALIFORNIA_2024",
+        "p_sink_file" : "ozone_cal_2024.csv"
+    },
+    {
+        "p_rel_url" : "PIYUSHPHUYAL/California-Air-Quality-Health-Risk-Index-Dashboard-2024-/refs/heads/main/RAW_DATA/pm2.5_cal_2024.csv",
+        "p_sink_folder" : "PM2.5_CALIFORNIA_2024",
+        "p_sink_file" : "pm2.5_cal_2024.csv"
+    }
+]
