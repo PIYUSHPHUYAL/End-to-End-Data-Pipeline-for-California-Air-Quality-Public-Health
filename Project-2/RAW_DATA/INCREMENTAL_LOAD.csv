@@ -1,0 +1,222 @@
+Date,Site ID,Concentration,Units,Daily AQI Value,County,State,CBSA Name,Site Latitude,Site Longitude,Pollutant
+1/1/2025,60010007,21.4,ppb,20,Alameda,California,"San Francisco-Oakland-Hayward, CA",37.687526,-121.784217,NO2
+1/1/2025,60010009,22.4,ppb,21,Alameda,California,"San Francisco-Oakland-Hayward, CA",37.687526,-121.784217,NO2
+1/1/2025,60010011,23.4,ppb,22,Alameda,California,"San Francisco-Oakland-Hayward, CA",37.687526,-121.784217,NO2
+1/1/2025,60010012,24.4,ppb,23,Alameda,California,"San Francisco-Oakland-Hayward, CA",37.687526,-121.784217,NO2
+1/1/2025,60010013,25.4,ppb,24,Alameda,California,"San Francisco-Oakland-Hayward, CA",37.687526,-121.784217,NO2
+1/1/2025,60010015,26.4,ppb,25,Alameda,California,"San Francisco-Oakland-Hayward, CA",37.687526,-121.784217,NO3
+1/1/2025,60010016,27.4,ppb,26,Alameda,California,"San Francisco-Oakland-Hayward, CA",37.687526,-121.784217,NO4
+1/1/2025,60070008,18.1,ppb,17,Butte,California,"Chico, CA",39.76168,-121.84047,NO2
+1/1/2025,60130002,11.5,ppb,10,Contra Costa,California,"San Francisco-Oakland-Hayward, CA",37.936013,-122.026154,NO2
+1/1/2025,60131002,27,ppb,25,Contra Costa,California,"San Francisco-Oakland-Hayward, CA",37.9604,-122.356811,NO2
+1/1/2025,60131004,26.7,ppb,25,Contra Costa,California,"San Francisco-Oakland-Hayward, CA",37.743649,-121.934188,NO2
+1/1/2025,60132007,24.4,ppb,23,Fresno,California,"Fresno, CA",36.705474,-119.741332,NO2
+1/1/2025,60190007,22.3,ppb,21,Fresno,California,"Fresno, CA",36.78538,-119.77321,NO2
+1/1/2025,60190011,20.2,ppb,19,Fresno,California,"Fresno, CA",36.841592,-119.874739,NO2
+1/1/2025,60190242,27.8,ppb,25,Fresno,California,"Fresno, CA",36.710833,-119.7775,NO2
+1/1/2025,60192016,16.3,ppb,15,Fresno,California,"Fresno, CA",36.597442,-119.503659,NO2
+1/1/2025,60194001,7.9,ppb,7,Humboldt,California,"Eureka-Arcata-Fortuna, CA",40.77678,-124.17949,NO2
+1/1/2025,60195001,14.6,ppb,13,Imperial,California,"El Centro, CA",32.67618,-115.48307,NO2
+1/1/2025,60231004,5.7,ppb,5,Imperial,California,"El Centro, CA",32.79222,-115.56306,NO2
+1/1/2025,60250005,11.9,ppb,10,Kern,California,"Bakersfield, CA",35.345607,-118.851825,NO2
+1/1/2025,60251003,14.9,ppb,13,Kern,California,"Bakersfield, CA",35.356615,-119.062613,NO2
+1/1/2025,60290007,17.1,ppb,16,Kern,California,"Bakersfield, CA",35.331612,-118.999961,NO2
+1/1/2025,60290014,28.2,ppb,26,Kern,California,"Bakersfield, CA",35.37695278,-119.0438889,NO2
+1/1/2025,60292012,12.5,ppb,11,Kern,California,"Bakersfield, CA",35.50358709,-119.2726062,NO2
+1/1/2025,60292019,15.9,ppb,14,Kings,California,"Hanford-Corcoran, CA",36.31567,-119.643447,NO2
+1/1/2025,60296001,17.6,ppb,16,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",34.14435,-117.85036,NO2
+1/1/2025,60311004,8.9,ppb,8,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",34.05111,-118.45636,NO2
+1/1/2025,60370016,29.6,ppb,27,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",34.06659,-118.22688,NO2
+1/1/2025,60370113,19.6,ppb,18,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",34.19925,-118.53276,NO2
+1/1/2025,60371103,5.9,ppb,5,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.901389,-118.205,NO2
+1/1/2025,60371201,25.7,ppb,24,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",34.01029,-118.0685,NO2
+1/1/2025,60371302,27.5,ppb,25,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",34.06703,-117.7514,NO2
+1/1/2025,60371602,20.4,ppb,19,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",34.1326,-118.1272,NO2
+1/1/2025,60371701,34.5,ppb,32,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.859662,-118.200707,NO2
+1/1/2025,60372005,30.7,ppb,28,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,NO2
+1/1/2025,60374008,31.7,ppb,29,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,NO2
+1/1/2025,60374009,32.7,ppb,30,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,NO2
+1/1/2025,60374010,33.7,ppb,31,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,NO2
+1/1/2025,60376012,34.7,ppb,32,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,NO2
+1/1/2025,60379035,35.7,ppb,33,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,NO2
+1/1/2025,60390004,36.7,ppb,34,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,NO2
+1/1/2025,60410001,37.7,ppb,35,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,NO2
+1/1/2025,60531003,38.7,ppb,36,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,NO2
+1/1/2025,60590007,39.7,ppb,37,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,NO2
+1/1/2025,60590008,40.7,ppb,38,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,NO2
+1/1/2025,60595001,41.7,ppb,39,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,NO2
+1/1/2025,60610006,42.7,ppb,40,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,NO2
+1/1/2025,60650012,43.7,ppb,41,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,NO2
+1/1/2025,60655001,44.7,ppb,42,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,NO2
+1/1/2025,60658001,45.7,ppb,43,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,NO2
+1/1/2025,60658005,46.7,ppb,44,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,NO2
+1/1/2025,60659001,47.7,ppb,45,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,NO2
+1/1/2025,60670006,48.7,ppb,46,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,NO2
+1/1/2025,60670010,49.7,ppb,47,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,NO2
+1/1/2025,60670011,50.7,ppb,48,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,NO2
+1/1/2025,60670012,51.7,ppb,49,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,NO2
+1/1/2025,60670015,52.7,ppb,50,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,NO2
+1/1/2025,60710001,53.7,ppb,51,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,NO2
+1/1/2025,60710026,54.7,ppb,52,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,NO2
+1/1/2025,60710027,55.7,ppb,53,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,NO2
+1/1/2025,60710306,56.7,ppb,54,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,NO2
+1/1/2025,60711234,57.7,ppb,55,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,NO2
+1/1/2025,60712002,58.7,ppb,56,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,NO2
+1/1/2025,60719004,59.7,ppb,57,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,NO2
+1/1/2025,60730001,60.7,ppb,58,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,NO2
+1/1/2025,60731006,61.7,ppb,59,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,NO2
+1/1/2025,60731008,62.7,ppb,60,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,NO2
+1/1/2025,60731014,63.7,ppb,61,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,NO2
+1/1/2025,60731016,64.7,ppb,62,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,NO2
+1/1/2025,60731017,65.7,ppb,63,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,NO2
+1/1/2025,60731022,66.7,ppb,64,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,NO2
+1/1/2025,60731025,67.7,ppb,65,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,NO2
+1/1/2025,60731026,68.7,ppb,66,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,NO2
+1/1/2025,60750005,69.7,ppb,67,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,NO2
+1/1/2025,60771003,70.7,ppb,68,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,NO2
+1/1/2025,60773005,71.7,ppb,69,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,NO2
+1/1/2025,60794002,72.7,ppb,70,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,NO2
+1/1/2025,60798002,73.7,ppb,71,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,NO2
+1/1/2025,60811001,74.7,ppb,72,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,NO2
+1/1/2025,60831013,75.7,ppb,73,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,NO2
+1/1/2025,60831014,76.7,ppb,74,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,NO2
+1/1/2025,60831021,77.7,ppb,75,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,NO2
+1/1/2025,60831025,78.7,ppb,76,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,NO2
+1/1/2025,60832004,79.7,ppb,77,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,NO2
+1/1/2025,60850005,80.7,ppb,78,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,NO2
+1/1/2025,60850006,81.7,ppb,79,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,NO2
+1/1/2025,60950004,82.7,ppb,80,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,NO2
+1/1/2025,60970004,83.7,ppb,81,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,NO2
+1/1/2025,60990006,84.7,ppb,82,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,NO2
+1/1/2025,61010003,85.7,ppb,83,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,NO2
+1/1/2025,61072003,86.7,ppb,84,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,NO2
+1/1/2025,61112002,87.7,ppb,85,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,NO2
+1/1/2025,61113001,88.7,ppb,86,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,NO2
+1/1/2025,61130004,89.7,ppb,87,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,NO2
+1/1/2025,60012001,90.7,ppb,88,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,NO2
+1/1/2025,60050002,91.7,ppb,89,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,NO2
+1/1/2025,60072003,92.7,ppb,90,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,NO2
+1/1/2025,60090001,93.7,ppb,91,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,NO2
+1/1/2025,60111002,94.7,ppb,92,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,NO2
+1/1/2025,60170012,95.7,ppm,93,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,Ozone
+1/1/2025,60170020,96.7,ppm,94,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,Ozone
+1/1/2025,60172004,97.7,ppm,95,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,Ozone
+1/1/2025,60190500,98.7,ppm,96,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,Ozone
+1/1/2025,60192009,99.7,ppm,97,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,Ozone
+1/1/2025,60210003,100.7,ppm,98,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,Ozone
+1/1/2025,60254003,101.7,ppm,99,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,Ozone
+1/1/2025,60254004,102.7,ppm,100,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,Ozone
+1/1/2025,60270002,103.7,ppm,101,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,Ozone
+1/1/2025,60270101,104.7,ppm,102,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,Ozone
+1/1/2025,60271023,105.7,ppm,103,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,Ozone
+1/1/2025,60290008,106.7,ppm,104,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,Ozone
+1/1/2025,60290020,107.7,ppm,105,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,Ozone
+1/1/2025,60290232,108.7,ppm,106,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,Ozone
+1/1/2025,60295002,109.7,ppm,107,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,Ozone
+1/1/2025,60333002,110.7,ppm,108,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,Ozone
+1/1/2025,60392010,111.7,ppm,109,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,Ozone
+1/1/2025,60430003,112.7,ppm,110,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,Ozone
+1/1/2025,60430006,113.7,ppm,111,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,Ozone
+1/1/2025,60450008,114.7,ppm,112,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,Ozone
+1/1/2025,60450011,115.7,ppm,113,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,Ozone
+1/1/2025,60470003,116.7,ppm,114,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,Ozone
+1/1/2025,60472024,117.7,ppm,115,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,Ozone
+1/1/2025,60530002,118.7,ppm,116,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,Ozone
+1/1/2025,60530008,119.7,ppm,117,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,Ozone
+1/1/2025,60570005,120.7,ppm,118,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,Ozone
+1/1/2025,60610003,121.7,ppm,119,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,Ozone
+1/1/2025,60610004,122.7,ppm,120,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,Ozone
+1/1/2025,60611004,123.7,ppm,121,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,Ozone
+1/1/2025,60612003,124.7,ppm,122,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,Ozone
+1/1/2025,60650009,125.7,ppm,123,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,Ozone
+1/1/2025,60650010,126.7,ppm,124,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,Ozone
+1/1/2025,60650016,127.7,ppm,125,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,Ozone
+1/1/2025,60651016,128.7,ppm,126,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,Ozone
+1/1/2025,60652007,129.7,ppm,127,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,Ozone
+1/1/2025,60659003,130.7,ppm,128,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,Ozone
+1/1/2025,60675003,131.7,ppm,129,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,Ozone
+1/1/2025,60690002,132.7,ppm,130,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,Ozone
+1/1/2025,60690003,133.7,ppm,131,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,Ozone
+1/1/2025,60710005,134.7,ppm,132,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,Ozone
+1/1/2025,60714001,135.7,ppm,133,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,Ozone
+1/1/2025,60714003,136.7,ppm,134,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,Ozone
+1/1/2025,60719002,137.7,ppm,135,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,Ozone
+1/1/2025,60731201,138.7,ppm,136,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,Ozone
+1/1/2025,60739991,139.7,ppm,137,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,Ozone
+1/1/2025,60790005,140.7,ppm,138,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,Ozone
+1/1/2025,60793003,141.7,ppm,139,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,Ozone
+1/1/2025,60798005,142.7,ppm,140,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,Ozone
+1/1/2025,60798006,143.7,ppm,141,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,Ozone
+1/1/2025,60830011,144.7,ppm,142,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,Ozone
+1/1/2025,60831009,145.7,ppm,143,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,Ozone
+1/1/2025,60832011,146.7,ppm,144,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,Ozone
+1/1/2025,60833001,147.7,ppm,145,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,Ozone
+1/1/2025,60850002,148.7,ppm,146,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,Ozone
+1/1/2025,60851001,149.7,ppm,147,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,Ozone
+1/1/2025,60852006,150.7,ppm,148,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,Ozone
+1/1/2025,60870007,151.7,ppm,149,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,Ozone
+1/1/2025,60890004,152.7,ppm,150,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,Ozone
+1/1/2025,60890009,153.7,ppm,151,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,Ozone
+1/1/2025,60893003,154.7,ppm,152,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,Ozone
+1/1/2025,60932001,155.7,ppm,153,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,Ozone
+1/1/2025,60950005,156.7,ppm,154,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,Ozone
+1/1/2025,60953003,157.7,ppm,155,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,Ozone
+1/1/2025,60990005,158.7,ppm,156,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,Ozone
+1/1/2025,61010004,159.7,ppm,157,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,Ozone
+1/1/2025,61030004,160.7,ppm,158,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,Ozone
+1/1/2025,61030007,161.7,ppm,159,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,Ozone
+1/1/2025,61070006,162.7,ppm,160,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,Ozone
+1/1/2025,61070009,163.7,ppm,161,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,Ozone
+1/1/2025,61072010,164.7,ppm,162,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,Ozone
+1/1/2025,61090005,165.7,ppm,163,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,Ozone
+1/1/2025,61110007,166.7,ppm,164,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,Ozone
+1/1/2025,61110009,167.7,ppm,165,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,Ozone
+1/1/2025,61111004,168.7,ppm,166,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,Ozone
+1/1/2025,61131003,169.7,ppm,167,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,Ozone
+1/1/2025,60074001,170.7,ug/m3 LC,168,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,PM2.5
+1/1/2025,60110007,171.7,ug/m3 LC,169,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,PM2.5
+1/1/2025,60150002,172.7,ug/m3 LC,170,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,PM2.5
+1/1/2025,60150007,173.7,ug/m3 LC,171,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,PM2.5
+1/1/2025,60179001,174.7,ug/m3 LC,172,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,PM2.5
+1/1/2025,60179002,175.7,ug/m3 LC,173,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,PM2.5
+1/1/2025,60192008,176.7,ug/m3 LC,174,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,PM2.5
+1/1/2025,60195025,177.7,ug/m3 LC,175,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,PM2.5
+1/1/2025,60199000,178.7,ug/m3 LC,176,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,PM2.5
+1/1/2025,60230006,179.7,ug/m3 LC,177,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,PM2.5
+1/1/2025,60250007,180.7,ug/m3 LC,178,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,PM2.5
+1/1/2025,60271003,181.7,ug/m3 LC,179,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,PM2.5
+1/1/2025,60271018,182.7,ug/m3 LC,180,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,PM2.5
+1/1/2025,60271033,183.7,ug/m3 LC,181,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,PM2.5
+1/1/2025,60290010,184.7,ug/m3 LC,182,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,PM2.5
+1/1/2025,60290016,185.7,ug/m3 LC,183,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,PM2.5
+1/1/2025,60290018,186.7,ug/m3 LC,184,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,PM2.5
+1/1/2025,60292009,187.7,ug/m3 LC,185,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,PM2.5
+1/1/2025,60299001,188.7,ug/m3 LC,186,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,PM2.5
+1/1/2025,60310004,189.7,ug/m3 LC,187,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,PM2.5
+1/1/2025,60410002,190.7,ug/m3 LC,188,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,PM2.5
+1/1/2025,60431001,191.7,ug/m3 LC,189,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,PM2.5
+1/1/2025,60450006,192.7,ug/m3 LC,190,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,PM2.5
+1/1/2025,60452003,193.7,ug/m3 LC,191,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,PM2.5
+1/1/2025,60472510,194.7,ug/m3 LC,192,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,PM2.5
+1/1/2025,60510001,195.7,ug/m3 LC,193,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,PM2.5
+1/1/2025,60510005,196.7,ug/m3 LC,194,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,PM2.5
+1/1/2025,60519000,197.7,ug/m3 LC,195,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,PM2.5
+1/1/2025,60571001,198.7,ug/m3 LC,196,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,PM2.5
+1/1/2025,60631006,199.7,ug/m3 LC,197,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,PM2.5
+1/1/2025,60631007,200.7,ug/m3 LC,198,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,PM2.5
+1/1/2025,60631010,201.7,ug/m3 LC,199,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,PM2.5
+1/1/2025,60650500,202.7,ug/m3 LC,200,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,PM2.5
+1/1/2025,60659000,203.7,ug/m3 LC,201,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,PM2.5
+1/1/2025,60718001,204.7,ug/m3 LC,202,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,PM2.5
+1/1/2025,60719010,205.7,ug/m3 LC,203,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,PM2.5
+1/1/2025,60730077,206.7,ug/m3 LC,204,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,PM2.5
+1/1/2025,60772010,207.7,ug/m3 LC,205,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,PM2.5
+1/1/2025,60792004,208.7,ug/m3 LC,206,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,PM2.5
+1/1/2025,60792007,209.7,ug/m3 LC,207,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,PM2.5
+1/1/2025,60792020,210.7,ug/m3 LC,208,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,PM2.5
+1/1/2025,60839001,211.7,ug/m3 LC,209,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,PM2.5
+1/1/2025,60871005,212.7,ug/m3 LC,210,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,PM2.5
+1/1/2025,60930005,213.7,ug/m3 LC,211,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,PM2.5
+1/1/2025,61050002,214.7,ug/m3 LC,212,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,PM2.5
+1/1/2025,61059000,215.7,ug/m3 LC,213,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,PM2.5
+1/1/2025,61071001,216.7,ug/m3 LC,214,Los Angeles,California,"Los Angeles-Long Beach-Anaheim, CA",33.793713,-118.171019,PM2.5
